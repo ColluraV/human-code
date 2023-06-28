@@ -46,5 +46,12 @@ APRI APP AMAZOMON               /* diamo per scontato che abbiamo un account */
 
                     -recupera password
 
+                        -SE il recupero va a buon fine 
+                                -torna al Log-in
+
+                        ALTRIMENTI
+                            
+                            -falle una busta coi soldi
+                    
 
             
